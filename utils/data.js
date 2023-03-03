@@ -35,7 +35,7 @@ const data = {
       brand: 'Puma',
       rating: 6.8,
       numReview: 9,
-      countInStock: 30,
+      countInStock: 10,
       description: 'A branded shirt for every occassion',
     },
     {
